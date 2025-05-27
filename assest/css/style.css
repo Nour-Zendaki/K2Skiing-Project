@@ -23,7 +23,7 @@ nav div {
     ul {
         display: flex;
         list-style: none;
-        gap: 50px;
+        gap: 30px;
         a {
             text-decoration: none;
             color: #222222;
@@ -51,13 +51,12 @@ nav div {
     background-color: white;
 }
 .hero {
-    width: 870px;
-    padding: 0 70px;
-    padding-top: 130px;
+    width: 700px;
+    padding: 20px 70px;
 }
 .hero h1 {
     color: #313b4c;
-    font-size: 85px;
+    font-size: 50px;
 }
 .hero p {
     margin: 35px 0px;
@@ -94,7 +93,7 @@ section {
         justify-content: space-between;
         margin: 0 70px;
         .card {
-            width: 530px;
+            width: 360px;
             text-align: left;
             img {
                 width: 100%;
@@ -146,7 +145,7 @@ section {
         justify-content: space-between;
         margin: 0 70px;
         .card {
-            width: 530px;
+            width: 380px;
             text-align: left;
             img {
                 width: 100%;
